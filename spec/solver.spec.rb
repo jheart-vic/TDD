@@ -17,5 +17,10 @@ describe Solver do
       solver = Solver.new
       expect(solver.factorial(5)).to be 120
     end
+    it 'reverse hello to be olleh' do
+      solver = Solver.new
+      expect(solver.reverse_string('hello')).to eq 'olleh'
+    end
+
   end
 end
