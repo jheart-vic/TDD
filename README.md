@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 - `Rspec spec/file_name.rb`
 
-## Author
+## Authors
 
 👤 **Victor David**
 
@@ -31,6 +31,13 @@ To get a local copy up and running follow these simple example steps.
 - Linkedin [victor-David](linkedin.com/in/victor-chiemerie-302a97230)
 - Twitter [victor-David](https://twitter.com/Victorjheart)
 - Github: [@Victor-David](https://github.com/jheart-vic)
+
+👤 **Ali**
+
+- GitHub: [@aliatayee](https://github.com/aliatayee)
+- Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aliatayee/)
+
 
 ## 🤝 Contributing
 
