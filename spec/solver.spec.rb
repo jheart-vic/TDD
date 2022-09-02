@@ -21,7 +21,7 @@ describe Solver do
     end
     it 'fizzbuzz 2 to be 2' do
       solver = Solver.new
-      expect(solver.fizz_buzz(2)).to be 2
+      expect(solver.fizz_buzz(2)).to eq '2'
     end
     it 'fizzbuzz 3 to be fizz' do
       solver = Solver.new
