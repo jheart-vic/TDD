@@ -35,6 +35,5 @@ describe Solver do
       solver = Solver.new
       expect(solver.fizz_buzz(60)).to eq 'fizzbuzz'
     end
-
   end
 end
