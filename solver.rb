@@ -8,4 +8,7 @@ class Solver
 
     (1..num).inject(1, :*)
   end
+  def reverse_string(str)
+    str.reverse
+  end
 end
