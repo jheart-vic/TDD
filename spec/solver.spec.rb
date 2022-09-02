@@ -1,9 +1,9 @@
-# frozen_string_literal: 
+# frozen_string_literal: true
 
 require './solver'
 
-# the solver class test
 describe Solver do
+  # the solver class test
   context 'Test Solver class and it method' do
     it 'factorial -1 to be false' do
       solver = Solver.new
